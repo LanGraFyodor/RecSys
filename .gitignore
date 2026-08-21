@@ -1,6 +1,7 @@
 # .gitignore for RecSys / Machine Learning Repository
 
 # Dataset files & archives
+catboost_info/
 *.zip
 *.tar.gz
 data_original/
