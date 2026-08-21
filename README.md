@@ -80,8 +80,8 @@ $$\text{WeightedRecall@k} = \frac{1}{|U|} \sum_{u \in U} \frac{\sum_{i \in \text
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/LanGraFyodor/RecSys.git
+cd RecSys
 ```
 
 ### 2. Создание и активация виртуального окружения
